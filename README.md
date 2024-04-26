@@ -23,7 +23,7 @@ Sou <b> Willian Germano. 👨‍💻</b></h1>
   <img align="center" alt="CambridgeLanguage" height="100" width="85" src="https://banner2.cleanpng.com/20180815/bow/kisspng-cambridge-assessment-english-tkt-english-language-cambridge-assessment-english-trade-profile-5b74b176bee1c7.1162088915343742627819.jpg">
 </div>
 <br>
-<b>👀 Click <i><a href="https://github.com/williangermano/williangermano/blob/main/README.md">here</i> to access the English version of my Readme! </b>
+<b>👀 Click <i><a href="https://github.com/williangermano/dio-lab-open-source/blob/c3105840fda46b787461f1d9f72e11bef4b18f76/community/williangermanodev.md">here</i> to access the English version of my Readme! </b>
   <!--Contato-->
   
 <strong> Contate-me pelos seguintes meios: </strong>
