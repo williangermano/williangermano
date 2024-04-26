@@ -32,3 +32,6 @@ Sou <b> Willian Germano. 👨‍💻</b></h1>
 </div>
 <br>
 </div>
+
+<!--Mostrar minhas stats do Github-->
+![T](https://github-readme-stats.vercel.app/api/top-langs/?username=williangermano&layout=compact&theme=gotham)
