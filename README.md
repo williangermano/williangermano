@@ -33,5 +33,5 @@ I'm <b> Willian Germano. 👨‍💻</b></h1>
 <br>
 </div>
 
-<!--Mostrar minhas stats do Github-->
-![williangermano's GitHub stats](https://github-readme-stats.vercel.app/api?username=williangermano&show_icons=true&theme=radical)
+<!-- Linguagens Github-->
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=williangermano&layout=compact&theme=radical)
