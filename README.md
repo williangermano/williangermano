@@ -19,7 +19,7 @@ Sou <b> Willian Germano. 👨‍💻</b></h1>
   
 💬 <strong>Sou fluente em Inglês, tendo obtido nível C1 no MET (Michigan English Test), pelos padrões CEFR <i>(Common European Framework)</i>.</strong> Certificado reconhecido por:
 <div style="display: block">
-  <img align="center" alt="MichiganEnglishTest" height="95" width="85" src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png">
+  <img align="center" alt="MichiganEnglishTest" height="95" width="65" src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png">
   <img align="center" alt="CambridgeLanguage" height="100" width="85" src="https://banner2.cleanpng.com/20180815/bow/kisspng-cambridge-assessment-english-tkt-english-language-cambridge-assessment-english-trade-profile-5b74b176bee1c7.1162088915343742627819.jpg">
 </div>
 <br>
